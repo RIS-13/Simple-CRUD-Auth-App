@@ -1,0 +1,31 @@
+{
+  "name": "crud-auth-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD app with user auth",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "pg-promise": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIS-13/Simple-CRUD-Auth-App.git"
+  },
+  "keywords": [
+    "crud",
+    "auth",
+    "pg",
+    "express"
+  ],
+  "author": "RIS-13 GROUP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RIS-13/Simple-CRUD-Auth-App/issues"
+  },
+  "homepage": "https://github.com/RIS-13/Simple-CRUD-Auth-App#readme"
+}

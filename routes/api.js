@@ -1,8 +1,6 @@
 var express = require('express');
 var router = express.Router();
 
-var Todo = require('../models/todo');
-
 // TODO: add real API methods
 router.route("methodName/:id")
     .get(function (req, res) {

@@ -10,6 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node .",
+    "watch": "supervisor .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

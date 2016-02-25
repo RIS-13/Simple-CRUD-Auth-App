@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 // TODO: add real API methods
-router.route("methodName/:id")
+router.route("/methodName/:id")
     .get(function (req, res) {
         res.json({'method': 'get', 'id': req.params.id});
     })
